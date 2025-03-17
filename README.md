@@ -1,4 +1,4 @@
-Olá, tudo bem? 👋 Me chamo **Wellington** e os repositórios desse perfil foram feitos de forma aleatória com o intuito de se divertir.
+Olá, tudo bem? 👋 Me chamo **Wellington**, sou desenvolvedor apaixonado por tecnologia, criando soluções inovadoras, otimizando experiências e sempre em busca de novos desafios e aprendizados.
 
 ![Welling GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingBR&show_icons=true&theme=dracula)
 
